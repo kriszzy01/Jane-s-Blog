@@ -1,0 +1,7 @@
+.header-primary {
+    background: $background-primary;
+    @include extra-small {
+        display: none;
+    }
+}
+
